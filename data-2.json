@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "address": "123 Street"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 34,
+    "address": "456 Avenue"
+  },
+  {
+    "name": "Ali Ahmed",
+    "age": 28,
+    "address": "123 Street"
+  },
+  {
+    "name": "Mohammed Ali",
+    "age": 34,
+    "address": "456 Avenue"
+  }
+]
