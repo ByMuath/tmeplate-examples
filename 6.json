@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "name": "Template 6",
+  "fields": [
+    "name",
+    "age",
+    "address"
+  ],
+  "structure": "<style>body {font-family: 'Arial', sans-serif; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 20px;} .card-container {display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;} .card {background-color: #ff6347; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; width: 280px; text-align: center; color: white; transition: transform 0.3s ease-in-out;} .card:hover {transform: translateY(-10px);} .card h2 {font-size: 1.8em; margin-bottom: 10px; color: #fff;} .card p {font-size: 1.1em; margin: 5px 0; color: #fff;} .card .label {font-weight: bold; color: #fff;} @media (max-width: 768px) { .card {width: 250px;} } @media (max-width: 480px) { .card {width: 100%; margin: 0 auto;} }</style><div class='card-container'><div class='card'><h2>{{name}}</h2><p class='label'>Age:</p><p>{{age}}</p><p class='label'>Address:</p><p>{{address}}</p></div><div class='card'><h2>{{name}}</h2><p class='label'>Age:</p><p>{{age}}</p><p class='label'>Address:</p><p>{{address}}</p></div></div>"
+}
