@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "name": "Template 3",
+  "fields": ["name", "age", "address"],
+  "structure": "<h1>{{name}}</h1><p>{{age}}</p><pre>{{address}}</pre>"
+}
