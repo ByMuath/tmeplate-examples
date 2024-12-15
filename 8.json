@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "name": "Template 5",
+  "fields": [
+    "name",
+    "age",
+    "address"
+  ],
+  "structure": ""
+}
